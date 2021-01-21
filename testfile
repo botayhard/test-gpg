@@ -1,1 +1,1 @@
-test git alias
+test git config --global commit.gpgsign true
